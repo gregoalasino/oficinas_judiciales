@@ -48,7 +48,7 @@ export default function SearchBar({ locations }: SearchBarProps) {
         placeholder="Busca una oficina, sala o edificio..."
         value={searchTerm}
         onChange={handleChange}
-        className="w-full p-3 border-2 border-gray-300 rounded-lg focus:outline-none focus:border-blue-500 transition duration-150 shadow-md"
+        className="w-full p-3 border-2 border-gray-300 rounded-lg focus:outline-none focus:border-blue-500 transition duration-150 shadow-md text-gray-800"
       />
 
       {/* Lista de Sugerencias */}
