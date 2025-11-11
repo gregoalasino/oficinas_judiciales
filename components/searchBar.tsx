@@ -45,7 +45,7 @@ export default function SearchBar({ locations }: SearchBarProps) {
     <div className="w-full relative">
       <input
         type="text"
-        placeholder="Busca una oficina..."
+        placeholder="Busca una oficina con nombre completo (tal como en el remito)..."
         value={searchTerm}
         onChange={handleChange}
         className="w-full p-3 border-2 border-gray-300 rounded-lg focus:outline-none focus:border-blue-500 transition duration-150 shadow-md text-gray-800"
