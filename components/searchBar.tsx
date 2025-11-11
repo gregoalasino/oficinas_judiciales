@@ -26,7 +26,7 @@ export default function SearchBar({ locations }: SearchBarProps) {
       office.piso.toLowerCase().includes(normalizedTerm) || 
       // Busca en el Piso/Nivel (que está en la variable 'ubicacion' según tu tipo)
       office.ubicacion.toLowerCase().includes(normalizedTerm)
-    ).slice(0, 7);
+    ).slice(0, 15);
     
   }, [searchTerm, locations, selectedOffice]);
 
