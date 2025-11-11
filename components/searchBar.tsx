@@ -81,7 +81,7 @@ export default function SearchBar({ locations }: SearchBarProps) {
             >
               <span className="font-semibold text-gray-800">{office.nombre}</span>
               <span className="text-sm text-gray-500 block">
-                Edificio: **{office.piso}** | Piso: **{office.ubicacion}**
+                Edificio: **{office.piso}** | Piso: **{office.edificio}**
               </span>
             </li>
           ))}
@@ -96,17 +96,17 @@ export default function SearchBar({ locations }: SearchBarProps) {
           <div className="grid grid-cols-2 gap-4 border-b pb-4 mb-4">
             <div>
               <p className="text-sm font-medium text-gray-500">Edificio o Complejo</p>
-              <p className="text-lg font-semibold text-blue-600">{selectedOffice.piso}</p> 
+              <p className="text-lg font-semibold text-blue-600">{selectedOffice.edificio}</p> 
             </div>
             <div>
               <p className="text-sm font-medium text-gray-500">Piso / Nivel</p>
-              <p className="text-lg font-semibold text-blue-600">{selectedOffice.ubicacion}</p> 
+              <p className="text-lg font-semibold text-blue-600">{selectedOffice.piso}</p> 
             </div>
           </div>
           
           <div>
             <p className="text-sm font-medium text-gray-500">Ubicación Detallada / Notas</p>
-            <p className="text-base text-gray-800 italic">{selectedOffice.edificio}</p>
+            <p className="text-base text-gray-800 italic">{selectedOffice.ubicacion}</p>
           </div>
         </div>
       )}
