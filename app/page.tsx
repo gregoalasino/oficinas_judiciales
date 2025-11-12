@@ -1,22 +1,45 @@
-import { officeLocations } from '../data/office'
+import { officeLocations } from '../data/office'; 
 import SearchBar from '../components/searchBar'; 
+import BuildingSearchBar from '../components/BuildingSearcherBar'; // NUEVO componente
+
+// 1. FILTRADO DE DATOS BASADO EN ID (Server-side)
+// Tribunales 1: id 1 al 103
+const TRIBUNALES_1_DATA = officeLocations.filter(o => o.id >= 1 && o.id <= 103);
+// Tribunales 2: id 104 al 270
+const TRIBUNALES_2_DATA = officeLocations.filter(o => o.id >= 104 && o.id <= 270);
+// Polo Laboral: id 271 al 311
+const POLO_LABORAL_DATA = officeLocations.filter(o => o.id >= 271 && o.id <= 311);
 
 export default function HomePage() {
   return (
-    // Aplicamos estilos a <main>:
-    // min-h-screen: Ocupa toda la altura visible de la pantalla.
-    // flex, flex-col, items-center: Centra el contenido vertical y horizontalmente.
-    // pt-24: Padding superior para que no esté pegado al borde.
-    // bg-gray-50: Un fondo gris muy claro para darle contraste al buscador blanco.
     <main className="min-h-screen flex flex-col items-center pt-24 pb-12 bg-gray-50">
       
       <h1 className="text-4xl font-extrabold mb-12 text-gray-800">
-        🔎 Buscador de Oficinas Judiciales
+        🔎 Buscador de Oficinas
       </h1>
       
-      {/* El buscador ocupa la parte central de la vista */}
-      <div className="w-full max-w-xl px-4 sm:px-0">
+      {/* BUSCADOR GENERAL */}
+      <div className="w-full max-w-xl px-4 sm:px-0 mb-16">
         <SearchBar locations={officeLocations} />
+      </div>
+
+      {/* --- SECCIÓN DE BUSCADORES ESPECÍFICOS --- */}
+      <h2 className="text-2xl font-bold mb-6 text-gray-700">
+        Búsqueda Rápida por Edificio
+      </h2>
+      
+      {/* Contenedor Flex para alinear horizontalmente */}
+      <div className="w-full max-w-6xl px-4 sm:px-0 flex flex-wrap justify-center gap-6">
+        
+        {/* Componente 1: Tribunales 1 */}
+        <BuildingSearchBar title="Tribunales 1" locations={TRIBUNALES_1_DATA} />
+        
+        {/* Componente 2: Tribunales 2 */}
+        <BuildingSearchBar title="Tribunales 2" locations={TRIBUNALES_2_DATA} />
+        
+        {/* Componente 3: Polo Laboral */}
+        <BuildingSearchBar title="Polo Laboral" locations={POLO_LABORAL_DATA} />
+
       </div>
 
     </main>
