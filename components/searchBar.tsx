@@ -51,7 +51,7 @@ export default function SearchBar({ locations }: SearchBarProps) {
       <div className="relative">
         <input
           type="text"
-          placeholder="Busca una oficina tal como figura en tu remito..."
+          placeholder="Ingresa el nombre como figura en tu remito..."
           value={searchTerm}
           onChange={handleChange}
           // pr-10 para dar espacio al botón y text-gray-800 para visibilidad
