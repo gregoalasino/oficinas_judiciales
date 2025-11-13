@@ -1925,7 +1925,7 @@ export const officeLocations: OfficeLocation[] =
    "nombre": "UNIDAD DE LA DEFENSA PUBLICA MOVIL- ANEXO UCA",
    "piso": "-1",
    "ubicacion": "T2 - MESA DE ENTRADA- DE LA HUELLA",
-   "edificio": ""
+   "edificio": "Tribunales 2"
  },
  {
    "id": 276,
