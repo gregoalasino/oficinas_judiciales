@@ -1896,287 +1896,287 @@ export const officeLocations: OfficeLocation[] =
    "id": 271,
    "nombre": "AGEP",
    "piso": "subsuelo",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 272,
    "nombre": "JUZG.DE CONCILIACION Y TRABAJO 10A.NOM.",
    "piso": "subsuelo",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 273,
    "nombre": "JUZG.DE CONCILIACION Y TRABAJO 1A.NOM.",
    "piso": "subsuelo",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 274,
    "nombre": "OFICINA DE CONCILIACION DE LA CAMARA UNICA DEL TRABAJO",
    "piso": "subsuelo",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 275,
    "nombre": "OFICINA DE GESTION JUDICIAL DEL FUERO LABORAL",
    "piso": "subsuelo",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 276,
    "nombre": "Sala PDA NRO. 1, 2, 3 y 4",
    "piso": "subsuelo",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 277,
    "nombre": "ASESORIA LETRADA TRABAJO 1er TNO",
    "piso": "planta baja",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 278,
    "nombre": "ASESORIA LETRADA TRABAJO 2do TNO",
    "piso": "planta baja",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 279,
    "nombre": "ASESORIA LETRADA TRABAJO 3er TNO",
    "piso": "planta baja",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 280,
    "nombre": "BIBLIOTECA-POLO LABORAL-ADMINISTRACION GENERAL DEL PODER JUDICIAL",
    "piso": "planta baja",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 281,
    "nombre": "INTENDENCIA-POLO LABORAL-AREA DE RECURSOS HUMANOS",
    "piso": "planta baja",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 282,
    "nombre": "JUZG.DE CONCILIACION Y TRABAJO 3A.NOM.",
    "piso": "planta baja",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 283,
    "nombre": "MESA DE ENTRADA GENERAL FUERO LABORAL",
    "piso": "planta baja",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 284,
    "nombre": "OFICINA DE ATENCION CIUDADANA-POLO LABORAL-T.S.J",
    "piso": "planta baja",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 285,
    "nombre": "OFICINA DE PERSONAL-POLO LABORAL-AREA DE RECURSOS HUMANOS",
    "piso": "planta baja",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 286,
    "nombre": "JUZG.DE CONCILIACION Y TRABAJO 5A.NOM.",
    "piso": "primer piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 287,
    "nombre": "JUZG.DE CONCILIACION Y TRABAJO 6A.NOM.",
    "piso": "primer piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 288,
    "nombre": "SALA 1 CAMARA DEL TRABAJO",
    "piso": "primer piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 289,
    "nombre": "SALA 2 CAMARA DEL TRABAJO",
    "piso": "primer piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 290,
    "nombre": "SALA 3 CAMARA DEL TRABAJO",
    "piso": "primer piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 291,
    "nombre": "SALA 4 CAMARA DEL TRABAJO",
    "piso": "primer piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 292,
    "nombre": "SALA 5 CAMARA DEL TRABAJO",
    "piso": "segundo piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 293,
    "nombre": "SALA 6 CAMARA DEL TRABAJO",
    "piso": "segundo piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 294,
    "nombre": "SALA 7 CAMARA DEL TRABAJO",
    "piso": "segundo piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 295,
    "nombre": "SALA 8 CAMARA DEL TRABAJO",
    "piso": "segundo piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 296,
    "nombre": "JUZG.DE CONCILIACION Y TRABAJO 7A.NOM.",
    "piso": "segundo piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 297,
    "nombre": "OFICINA DE GESTION JUDICIAL COMUN DEL TGA DE CONCILIACION Y TRABAJO N°2-CAPITAL",
    "piso": "tercer piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 298,
    "nombre": "SALA 9 CAMARA DEL TRABAJO",
    "piso": "tercer piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 299,
    "nombre": "SALA 10 CAMARA DEL TRABAJO",
    "piso": "tercer piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 300,
    "nombre": "SALA 11 CAMARA DEL TRABAJO",
    "piso": "tercer piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 301,
    "nombre": "TRIBUNAL DE GESTION ASOCIADA DE CONCILIACION Y TRABAJO N°2 CAPITAL (TGA)",
    "piso": "tercer piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 302,
    "nombre": "UNIDAD DE COORDINACION (UC) DE LA OF.DE GESTION JUDICIAL COMUN DEL TGA DE CONCIL.Y TRAB.N°2-CAPITAL",
    "piso": "tercer piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 303,
    "nombre": "UNIDAD DE GESTION DE AUDIENCIAS (UGA) DE LA OF.DE GESTION JUD.COMUN-TGA DE CONCIL.Y TRAB.N°2-CAPITAL",
    "piso": "tercer piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 304,
    "nombre": "UNIDAD DE GESTION DE PROCESOS ESPECIALES (UGPE)-OF.DE GESTION JUD.COMUN-TGA DE CONCIL.Y TRAB.N°2",
    "piso": "tercer piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 305,
    "nombre": "UNIDAD DE GESTION DE PROCESOS ORD.Y PROC.DECLAR.ABREV.(PDA-UGP) OF.GEST.JUD.-TGA CONCIL.Y TRAB.N°2",
    "piso": "tercer piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 306,
    "nombre": "OFICINA DE GESTION JUDICIAL COMUN DEL TGA DE CONCILIACION Y TRABAJO N°1-CAPITAL",
    "piso": "cuarto piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 307,
    "nombre": "TRIBUNAL DE GESTION ASOCIADA DE CONCILIACION Y TRABAJO N°1 CAPITAL (TGA)",
    "piso": "cuarto piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 308,
    "nombre": "UNIDAD DE COORDINACION (UC) DE LA OF.DE GESTION JUDICIAL COMUN DEL TGA DE CONCIL.Y TRAB.N°1-CAPITAL",
    "piso": "cuarto piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 309,
    "nombre": "UNIDAD DE GESTION DE AUDIENCIAS (UGA) DE LA OF.DE GESTION JUD.COMUN-TGA DE CONCIL.Y TRAB.N°1-CAPITAL",
    "piso": "cuarto piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 310,
    "nombre": "UNIDAD DE GESTION DE PROCESOS ESPECIALES (UGPE)-OF.DE GESTION JUD.COMUN-TGA DE CONCIL.Y TRAB.N°1",
    "piso": "cuarto piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  },
  {
    "id": 311,
    "nombre": "UNIDAD DE GESTION DE PROCESOS ORD.Y PROC.DECLAR.ABREV.(PDA-UGP) OF.GEST.JUD.-TGA CONCIL.Y TRAB.N°1",
    "piso": "cuarto piso",
-   "ubicacion": "Ver cartel ascensor nivel -1",
+   "ubicacion": "Ver cartel",
    "edificio": "Polo Laboral"
  }
 ]
