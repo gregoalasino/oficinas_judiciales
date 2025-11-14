@@ -725,1556 +725,1633 @@ export const officeLocations: OfficeLocation[] =
  },
  {
    "id": 104,
+   "nombre": "UNIDAD DE TRAMITE (UT) TGA",
+   "piso": "Subsuelo",
+   "ubicacion": "Caseros",
+   "edificio": "Tribunales 1"
+ },
+ {
+   "id": 105,
    "nombre": "AREA DE ARCHIVO",
    "piso": "-1",
    "ubicacion": "T2 - Entrada",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 105,
+   "id": 106,
    "nombre": "ASESORIA LETRADA DE VICTIMAS 1° TURNO",
    "piso": "0",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 106,
+   "id": 107,
    "nombre": "ASESORIA LETRADA DE VICTIMAS 2° TURNO",
    "piso": "0",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 107,
+   "id": 108,
    "nombre": "ASESORIA LETRADA PENAL",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 108,
+   "id": 109,
    "nombre": "ASESORIA LETRADA PENAL 11 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 109,
+   "id": 110,
    "nombre": "ASESORIA LETRADA PENAL 12 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 110,
+   "id": 111,
    "nombre": "ASESORIA LETRADA PENAL 13 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 111,
+   "id": 112,
    "nombre": "ASESORIA LETRADA PENAL 14 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 112,
+   "id": 113,
    "nombre": "ASESORIA LETRADA PENAL 15 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 113,
+   "id": 114,
    "nombre": "ASESORIA LETRADA PENAL 16 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 114,
+   "id": 115,
    "nombre": "ASESORIA LETRADA PENAL 17 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 115,
+   "id": 116,
    "nombre": "ASESORIA LETRADA PENAL 18 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 116,
+   "id": 117,
    "nombre": "ASESORIA LETRADA PENAL 19 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 117,
+   "id": 118,
    "nombre": "ASESORIA LETRADA PENAL 2 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 118,
+   "id": 119,
    "nombre": "ASESORIA LETRADA PENAL 20 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 119,
+   "id": 120,
    "nombre": "ASESORIA LETRADA PENAL 21 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 120,
+   "id": 121,
    "nombre": "ASESORIA LETRADA PENAL 22 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 121,
+   "id": 122,
    "nombre": "ASESORIA LETRADA PENAL 23 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 122,
+   "id": 123,
    "nombre": "ASESORIA LETRADA PENAL 24 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 123,
+   "id": 124,
    "nombre": "ASESORIA LETRADA PENAL 25 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 124,
+   "id": 125,
    "nombre": "ASESORIA LETRADA PENAL 26 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 125,
+   "id": 126,
    "nombre": "ASESORIA LETRADA PENAL 27 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 126,
+   "id": 127,
    "nombre": "ASESORIA LETRADA PENAL 28 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 127,
+   "id": 128,
    "nombre": "ASESORIA LETRADA PENAL 29 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 128,
+   "id": 129,
    "nombre": "ASESORIA LETRADA PENAL 7 TURNO",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 129,
+   "id": 130,
    "nombre": "BIBLIOTECA PALACIO II-ADMINISTRACION GENERAL DEL PODER JUDICIAL",
    "piso": "-1",
    "ubicacion": "T2 - Entrada",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 130,
+   "id": 131,
    "nombre": "CAMARA DE ACUSACION",
    "piso": "0",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 131,
+   "id": 132,
    "nombre": "CAMARA DE ACUSACION - SEC. 1",
    "piso": "0",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 132,
+   "id": 133,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 1°NOM.",
    "piso": "1",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 133,
+   "id": 134,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 1°NOM.SEC.1",
    "piso": "1",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 134,
+   "id": 135,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 1°NOM.SEC.2",
    "piso": "1",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 135,
+   "id": 136,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 10°NOM.",
    "piso": "0",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 136,
+   "id": 137,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 10°NOM.SEC.19",
    "piso": "0",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 137,
+   "id": 138,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 10°NOM.SEC.20",
    "piso": "0",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 138,
+   "id": 139,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 11°NOM.",
    "piso": "0",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 139,
+   "id": 140,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 11°NOM.SEC.21",
    "piso": "0",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 140,
+   "id": 141,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 11°NOM.SEC.22",
    "piso": "0",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 141,
+   "id": 142,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 12°NOM.",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 142,
+   "id": 143,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 12°NOM.SEC.23",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 143,
+   "id": 144,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 12°NOM.SEC.24",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 144,
+   "id": 145,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 2°NOM.",
    "piso": "1",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 145,
+   "id": 146,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 2°NOM.SEC.3",
    "piso": "1",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 146,
+   "id": 147,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 2°NOM.SEC.4",
    "piso": "1",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 147,
+   "id": 148,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 3°NOM.",
    "piso": "1",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 148,
+   "id": 149,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 3°NOM.SEC.5",
    "piso": "1",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 149,
+   "id": 150,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 3°NOM.SEC.6",
    "piso": "1",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 150,
+   "id": 151,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 4°NOM.",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 151,
+   "id": 152,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 4°NOM.SEC.7",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 152,
+   "id": 153,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 4°NOM.SEC.8",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 153,
+   "id": 154,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 5°NOM.",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 154,
+   "id": 155,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 5°NOM.SEC.10",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 155,
+   "id": 156,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 5°NOM.SEC.9",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 156,
+   "id": 157,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 6°NOM.",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 157,
+   "id": 158,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 6°NOM.SEC.11",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 158,
+   "id": 159,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 6°NOM.SEC.12",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 159,
+   "id": 160,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 7°NOM.",
    "piso": "3",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 160,
+   "id": 161,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 7°NOM.SEC.13",
    "piso": "3",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 161,
+   "id": 162,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 7°NOM.SEC.14",
    "piso": "3",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 162,
+   "id": 163,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 8°NOM.",
    "piso": "3",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 163,
+   "id": 164,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 8°NOM.SEC.15",
    "piso": "3",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 164,
+   "id": 165,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 8°NOM.SEC.16",
    "piso": "3",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 165,
+   "id": 166,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 9°NOM.",
    "piso": "3",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 166,
+   "id": 167,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 9°NOM.SEC.17",
    "piso": "3",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 167,
+   "id": 168,
    "nombre": "CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 9°NOM.SEC.18",
    "piso": "3",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 168,
+   "id": 169,
    "nombre": "CENTRO DE GESTION ESTRATEGICA Y ESTADISTICAS (CGEE)",
    "piso": "2",
    "ubicacion": "T2 - Entrada",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 169,
+   "id": 170,
    "nombre": "CENTRO DE PERFECC. RICARDO NUÑEZ- AREAS DE APOYO- T.S.J.",
    "piso": "1",
    "ubicacion": "T2- TRIANGULO ",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 170,
+   "id": 171,
    "nombre": "EQUIPO DE CONSULT.Y PERITOS DE LA DEFENSA PUBLICA-AREA DE SERV.JUDICIALES",
    "piso": "-2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 171,
+   "id": 172,
    "nombre": "EQUIPO TECNICO DEL FUERO PENAL-AREA DE SERV.JUDICIALES",
    "piso": "-2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 172,
+   "id": 173,
    "nombre": "FISC.INSTRUCC.DISTR.1-1°TNO.",
    "piso": "2",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 173,
+   "id": 174,
    "nombre": "FISC.INSTRUCC.DISTR.1-2°TNO.",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 174,
+   "id": 175,
    "nombre": "FISC.INSTRUCC.DISTR.1-3°TNO.",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 175,
+   "id": 176,
    "nombre": "FISC.INSTRUCC.DISTR.1-4°TNO.",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 176,
+   "id": 177,
    "nombre": "FISC.INSTRUCC.DISTR.1-5°TNO.",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 177,
+   "id": 178,
    "nombre": "FISC.INSTRUCC.DISTR.1-6°TNO.",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 178,
+   "id": 179,
    "nombre": "FISC.INSTRUCC.DISTR.2-1°TNO.",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 179,
+   "id": 180,
    "nombre": "FISC.INSTRUCC.DISTR.2-3°TNO.",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 180,
+   "id": 181,
    "nombre": "FISC.INSTRUCC.DISTR.2-4°TNO.",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 181,
+   "id": 182,
    "nombre": "FISC.INSTRUCC.DISTR.2-5°TNO.",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 182,
+   "id": 183,
    "nombre": "FISC.INSTRUCC.DISTR.2-6°TNO.",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 183,
+   "id": 184,
    "nombre": "FISC.INSTRUCC.DISTR.2-7°TNO",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 184,
+   "id": 185,
    "nombre": "FISC.INSTRUCC.DISTR.3-1°TNO.",
    "piso": "2",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 185,
+   "id": 186,
    "nombre": "FISC.INSTRUCC.DISTR.3-2°TNO.",
    "piso": "2",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 186,
+   "id": 187,
    "nombre": "FISC.INSTRUCC.DISTR.3-3°TNO.",
    "piso": "2",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 187,
+   "id": 188,
    "nombre": "FISC.INSTRUCC.DISTR.3-4°TNO.",
    "piso": "2",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 188,
+   "id": 189,
    "nombre": "FISC.INSTRUCC.DISTR.3-5°TNO.",
    "piso": "2",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 189,
+   "id": 190,
    "nombre": "FISC.INSTRUCC.DISTR.3-6°TNO.",
    "piso": "2",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 190,
+   "id": 191,
    "nombre": "FISC.INSTRUCC.DISTR.3-7°TNO.",
    "piso": "2",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 191,
+   "id": 192,
    "nombre": "FISC.INSTRUCC.DISTR.4-1°TNO.",
    "piso": "2",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 192,
+   "id": 193,
    "nombre": "FISC.INSTRUCC.DISTR.4-2°TNO.",
    "piso": "2",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 193,
+   "id": 194,
    "nombre": "FISC.INSTRUCC.DISTR.4-3°TNO.",
    "piso": "2",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 194,
+   "id": 195,
    "nombre": "FISC.INSTRUCC.DISTR.4-4°TNO.",
    "piso": "2",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 195,
+   "id": 196,
    "nombre": "FISC.INSTRUCC.DISTR.4-5°TNO.",
    "piso": "2",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 196,
+   "id": 197,
    "nombre": "FISC.INSTRUCC.DISTR.4-6°TNO",
    "piso": "2",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 197,
+   "id": 198,
    "nombre": "FISCALIA DE CAMARA DE ACUSACION",
    "piso": "0",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 198,
+   "id": 199,
    "nombre": "FISCALIA DE CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 1°NOM.",
    "piso": "1",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 199,
+   "id": 200,
    "nombre": "FISCALIA DE CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 10°NOM.",
    "piso": "0",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 200,
+   "id": 201,
    "nombre": "FISCALIA DE CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 11°NOM.",
    "piso": "0",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 201,
+   "id": 202,
    "nombre": "FISCALIA DE CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 12°NOM.",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 202,
+   "id": 203,
    "nombre": "FISCALIA DE CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 2°NOM.",
    "piso": "1",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 203,
+   "id": 204,
    "nombre": "FISCALIA DE CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 3°NOM.",
    "piso": "1",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 204,
+   "id": 205,
    "nombre": "FISCALIA DE CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 4°NOM.",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 205,
+   "id": 206,
    "nombre": "FISCALIA DE CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 5°NOM.",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 206,
+   "id": 207,
    "nombre": "FISCALIA DE CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 6°NOM.",
    "piso": "2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 207,
+   "id": 208,
    "nombre": "FISCALIA DE CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 7°NOM.",
    "piso": "3",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 208,
+   "id": 209,
    "nombre": "FISCALIA DE CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 8°NOM.",
    "piso": "3",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 209,
+   "id": 210,
    "nombre": "FISCALIA DE CAMARA EN LO CRIMINAL Y CORRECCIONAL DE 9°NOM.",
    "piso": "3",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 210,
+   "id": 211,
    "nombre": "FISCALIA DE EJECUCION PENAL DE 1°NOM.",
    "piso": "0",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 211,
+   "id": 212,
    "nombre": "FISCALIA DE INSTRUCC. 27° NOM.",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 212,
+   "id": 213,
    "nombre": "FISCALIA DE INSTRUCC.DE LUCHA CONTRA EL NARCOTRAFICO 1° TURNO",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 213,
+   "id": 214,
    "nombre": "FISCALIA DE INSTRUCC.DE LUCHA CONTRA EL NARCOTRAFICO 2° TURNO",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 214,
+   "id": 215,
    "nombre": "FISCALIA DE INSTRUCC.DE LUCHA CONTRA EL NARCOTRAFICO 3° TURNO",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 215,
+   "id": 216,
    "nombre": "FISCALIA DE INSTRUCCION EN LO PENAL ECONOMICO 1A. NOM.",
    "piso": "0",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 216,
+   "id": 217,
    "nombre": "FISCALIA DE INSTRUCCION EN LO PENAL ECONOMICO 2da.NOM.",
    "piso": "0",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 217,
+   "id": 218,
    "nombre": "FISCALIA DE INSTRUCCION EN VIOLENCIA DE GENERO Y FAMILIAR 1° TURNO",
    "piso": "0",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 218,
+   "id": 219,
    "nombre": "FISCALIA DE INSTRUCCION EN VIOLENCIA DE GENERO Y FAMILIAR 2° TURNO",
    "piso": "0",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 219,
+   "id": 220,
    "nombre": "FISCALIA DE INSTRUCCION EN VIOLENCIA DE GENERO Y FAMILIAR 3° TURNO",
    "piso": "0",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 220,
+   "id": 221,
    "nombre": "FISCALIA DE INSTRUCCION EN VIOLENCIA DE GENERO Y FAMILIAR 4° TURNO",
    "piso": "0",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 221,
+   "id": 222,
    "nombre": "FISCALIA DE INSTRUCCION EN VIOLENCIA DE GENERO Y FAMILIAR 5° TURNO",
    "piso": "0",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 222,
+   "id": 223,
    "nombre": "FISCALIA DE INSTRUCCION EN VIOLENCIA DE GENERO Y FAMILIAR 6° TURNO",
    "piso": "0",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 223,
+   "id": 224,
    "nombre": "FISCALIA DE INSTRUCCION ESPECIALIZADA EN CIBER CRIMEN",
    "piso": "2",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 224,
+   "id": 225,
    "nombre": "FOTOC.FUERO PENAL-S.PENAL-TRIB.SUP.-PAL.JUST.II.-",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 225,
+   "id": 226,
    "nombre": "INTENDENCIA PALACIO DE JUSTICIA II- AREA DE RECURSOS HUMANOS",
    "piso": "0",
    "ubicacion": "T2 - Entrada",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 226,
+   "id": 227,
    "nombre": "JUZGADO DE CONTROL DE LUCHA CONTRA EL NARCOTRAFICO",
    "piso": "0",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 227,
+   "id": 228,
    "nombre": "JUZGADO DE CONTROL EN LO PENAL-ECONOMICO",
    "piso": "-2",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 228,
+   "id": 229,
    "nombre": "JUZGADO DE CONTROL EN VIOLENCIA DE GENERO Y FAMILIAR N°1",
    "piso": "-1",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 229,
+   "id": 230,
    "nombre": "JUZGADO DE CONTROL EN VIOLENCIA DE GENERO Y FAMILIAR N°2",
    "piso": "-1",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 230,
+   "id": 231,
    "nombre": "JUZGADO DE CONTROL Y FALTAS N°10",
    "piso": "0",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 231,
+   "id": 232,
    "nombre": "JUZGADO DE CONTROL Y FALTAS N°11",
    "piso": "0",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 232,
+   "id": 233,
    "nombre": "JUZGADO DE CONTROL Y FALTAS N°9",
    "piso": "0",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 233,
+   "id": 234,
    "nombre": "JUZGADO DE CONTROL Y FALTAS Nº2",
    "piso": "-1",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 234,
+   "id": 235,
    "nombre": "JUZGADO DE CONTROL Y FALTAS Nº3",
    "piso": "-1",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 235,
+   "id": 236,
    "nombre": "JUZGADO DE CONTROL Y FALTAS Nº4",
    "piso": "-1",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 236,
+   "id": 237,
    "nombre": "JUZGADO DE CONTROL Y FALTAS Nº5",
    "piso": "-1",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 237,
+   "id": 238,
    "nombre": "JUZGADO DE CONTROL Y FALTAS Nº7",
    "piso": "0",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 238,
+   "id": 239,
    "nombre": "JUZGADO DE CONTROL Y FALTAS Nº8",
    "piso": "0",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 239,
+   "id": 240,
    "nombre": "JUZGADO DE EJECUCION PENAL Nº 1",
    "piso": "-2",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 240,
+   "id": 241,
    "nombre": "JUZGADO DE EJECUCION PENAL Nº 2",
    "piso": "-2",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 241,
+   "id": 242,
    "nombre": "JUZGADO DE EJECUCION PENAL Nº 3",
    "piso": "-2",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 242,
+   "id": 243,
    "nombre": "MESA DE COORDINACION Y ENLACE TRIBUNALES II-DIR.GRAL.POL.JUD.",
    "piso": "-1",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 243,
+   "id": 244,
    "nombre": "MESA DE ENTRADAS DEL FUERO PENAL.-SEC.PENAL.-TRIB.SUP.JUST.-",
    "piso": "-1",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 244,
+   "id": 245,
    "nombre": "OFICINA DE ATENCION CENTRALIZADA PARA EL TRATAMIENTO DE LAS CAUSAS DE VIOL.FLIAR. EN ETAPA DE JUICIO",
    "piso": "0",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 245,
+   "id": 246,
    "nombre": "OFICINA DE COORDINACION DE INTERNACIONES JUDICIALES INVOLUNTARIAS (O.C.I.J.I.)",
    "piso": "-1",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 246,
+   "id": 247,
    "nombre": "OFICINA DE COORDINACION DE LAS UNIDADES DE DEFENSA PUBLICA-U.D.P",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 247,
+   "id": 248,
    "nombre": "OFICINA DE COORDINACION-SEC.PENAL T.S.J.",
    "piso": "-2",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 248,
+   "id": 249,
    "nombre": "OFICINA DE DERECHOS HUMANOS Y JUSTICIA- AREAS DE APOYO- T.S.J.",
    "piso": "0",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 249,
+   "id": 250,
    "nombre": "OFICINA DE ETICA JUDICIAL- AREAS DE APOYO -T.S.J.",
    "piso": "1",
    "ubicacion": "T2 - Entrada",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 250,
+   "id": 251,
    "nombre": "OFICINA DE FISCALIA DE CAMARA SUBROGANTE",
    "piso": "1",
    "ubicacion": "T2 - Ala Celeste-FONDO A LA DERECHA",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 251,
+   "id": 252,
    "nombre": "OFICINA DE GESTION DE AUDIENCIAS (OGA)-SEC.PENAL T.S.J.",
    "piso": "0",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 252,
+   "id": 253,
    "nombre": "OFICINA DE JURADOS DEL T.S.J",
    "piso": "1",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 253,
+   "id": 254,
    "nombre": "OFICINA DE PERSONAL- PALACIO II- AREA DE RECURSOS HUMANOS",
    "piso": "0",
    "ubicacion": "T2 - Entrada",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 254,
+   "id": 255,
    "nombre": "OFICINA DE SERVICIOS PROCESALES (OSPRO)-SEC.PENAL T.S.J.",
    "piso": "3",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 255,
+   "id": 256,
    "nombre": "OFICINA DELITOS CONTRA LA INTEGRIDAD SEXUAL-ASESORIA LETRADA PENAL",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 256,
+   "id": 257,
    "nombre": "OFICINA NARCOTRAFICO-ASESORIA LETRADA PENAL",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 257,
+   "id": 258,
    "nombre": "OFICINA PENADOS Y MEDIDAS DE SEGURIDAD-ASESORIA LETRADA PENAL",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 258,
+   "id": 259,
    "nombre": "OFICINA DEFENSA PUBLICA DE VICTIMAS",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 259,
+   "id": 260,
    "nombre": "OFICINA VIOLENCIA FAMILIAR-ASESORIA LETRADA PENAL",
    "piso": "3",
    "ubicacion": "T2 - Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 260,
+   "id": 261,
    "nombre": "PERITOS MEDICOS OFICIALES- AREA DE SERVICIOS JUDICIALES",
    "piso": "-2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 261,
+   "id": 262,
    "nombre": "SECCION ADMINISTRATIVA TECNICA- AREA DE ARCHIVO",
    "piso": "-1",
    "ubicacion": "T2 - Entrada",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 262,
+   "id": 263,
    "nombre": "SECCION PRESTACION DE SERVICIOS- AREA DE ARCHIVO",
    "piso": "-1",
    "ubicacion": "T2 - Entrada",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 263,
+   "id": 264,
    "nombre": "SECCION PROCESAMIENTO TECNICO ARCHIVISTICO- AREA DE ARCHIVO",
    "piso": "-1",
    "ubicacion": "T2 - Entrada",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 264,
+   "id": 265,
    "nombre": "SECRETARIA DE EXHORTOS DEL FUERO PENAL-SEC.PENAL-T.S.J.",
    "piso": "1",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 265,
+   "id": 266,
    "nombre": "SUB AREA CENTRO DE DOCUMENTACION HISTORICA- AREA DE ARCHIVO",
    "piso": "-1",
    "ubicacion": "T2 - Entrada",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 266,
+   "id": 267,
    "nombre": "SUB AREA DE ARCHIVO JUDICIAL Y ADMINIST.- AREA DE ARCHIVO",
    "piso": "-1",
    "ubicacion": "T2 - Entrada",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 267,
+   "id": 268,
    "nombre": "SUB AREA DE ARCHIVOS REGIONALES- AREA DE ARCHIVO",
    "piso": "-2",
    "ubicacion": "T2 - Entrada",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 268,
+   "id": 269,
    "nombre": "UNIDAD DE LA DEFENSA PUBLICA OFICIAL N°2-ASESORIA LETRADA PENAL",
    "piso": "-1",
    "ubicacion": "T2 - Edificio Ingreso",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 269,
+   "id": 270,
    "nombre": "UNIDAD DE LA DEFENSA PUBLICA OFICIAL N°3 (Unidad de Contencion de Aprehendidos-U.C.A.)",
    "piso": "-1",
    "ubicacion": "T2 - Edificio Ingreso",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 270,
+   "id": 271,
    "nombre": "UNIDAD DE LA DEFENSA PUBLICA OFICIAL N°4 (COMPLEJO ESPERANZA)",
    "piso": "-1",
    "ubicacion": "T2 - Edificio Ingreso",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 271,
+   "id": 272,
    "nombre": "UNIDAD DE LA DEFENSA PUBLICA OFICIAL Nº1-ASESORIA LETRADA PENAL",
    "piso": "-1",
    "ubicacion": "T2 - Edificio Ingreso",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 272,
+   "id": 273,
    "nombre": "MESA DE ENTRADAS DEL FUERO PENAL GENERAL",
    "piso": "-1",
    "ubicacion": "T2 - Edificio Ingreso",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 273,
+   "id": 274,
    "nombre": "OFICINA DE MEDIDAS ADECUADAS (OMA)",
    "piso": "0",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 274,
+   "id": 275,
    "nombre": "MESA DE ENTRADAS ÚNICA - AREA DE SERV.JUD",
    "piso": "-2",
    "ubicacion": "T2 - Ala Rosa",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 275,
+   "id": 276,
    "nombre": "UNIDAD DE LA DEFENSA PUBLICA MOVIL- ANEXO UCA",
    "piso": "-1",
    "ubicacion": "T2 - MESA DE ENTRADA- DE LA HUELLA",
    "edificio": "Tribunales 2"
  },
  {
-   "id": 276,
+   "id": 277,
    "nombre": "AGEP",
    "piso": "subsuelo",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 277,
+   "id": 278,
    "nombre": "JUZG.DE CONCILIACION Y TRABAJO 10A.NOM.",
    "piso": "subsuelo",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 278,
+   "id": 279,
    "nombre": "JUZG.DE CONCILIACION Y TRABAJO 1A.NOM.",
    "piso": "subsuelo",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 279,
+   "id": 280,
    "nombre": "OFICINA DE CONCILIACION DE LA CAMARA UNICA DEL TRABAJO",
    "piso": "subsuelo",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 280,
+   "id": 281,
    "nombre": "OFICINA DE GESTION JUDICIAL DEL FUERO LABORAL",
    "piso": "subsuelo",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 281,
+   "id": 282,
    "nombre": "Sala PDA NRO. 1, 2, 3 y 4",
    "piso": "subsuelo",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 282,
+   "id": 283,
    "nombre": "ASESORIA LETRADA TRABAJO 1er TNO",
    "piso": "planta baja",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 283,
+   "id": 284,
    "nombre": "ASESORIA LETRADA TRABAJO 2do TNO",
    "piso": "planta baja",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 284,
+   "id": 285,
    "nombre": "ASESORIA LETRADA TRABAJO 3er TNO",
    "piso": "planta baja",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 285,
+   "id": 286,
    "nombre": "BIBLIOTECA-POLO LABORAL-ADMINISTRACION GENERAL DEL PODER JUDICIAL",
    "piso": "planta baja",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 286,
+   "id": 287,
    "nombre": "INTENDENCIA-POLO LABORAL-AREA DE RECURSOS HUMANOS",
    "piso": "planta baja",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 287,
+   "id": 288,
    "nombre": "JUZG.DE CONCILIACION Y TRABAJO 3A.NOM.",
    "piso": "planta baja",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 288,
+   "id": 289,
    "nombre": "MESA DE ENTRADA GENERAL FUERO LABORAL",
    "piso": "planta baja",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 289,
+   "id": 290,
    "nombre": "OFICINA DE ATENCION CIUDADANA-POLO LABORAL-T.S.J",
    "piso": "planta baja",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 290,
+   "id": 291,
    "nombre": "OFICINA DE PERSONAL-POLO LABORAL-AREA DE RECURSOS HUMANOS",
    "piso": "planta baja",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 291,
+   "id": 292,
    "nombre": "JUZG.DE CONCILIACION Y TRABAJO 5A.NOM.",
    "piso": "primer piso",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 292,
+   "id": 293,
    "nombre": "JUZG.DE CONCILIACION Y TRABAJO 6A.NOM.",
    "piso": "primer piso",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 293,
+   "id": 294,
    "nombre": "SALA 1 CAMARA DEL TRABAJO",
    "piso": "primer piso",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 294,
+   "id": 295,
    "nombre": "SALA 2 CAMARA DEL TRABAJO",
    "piso": "primer piso",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 295,
+   "id": 296,
    "nombre": "SALA 3 CAMARA DEL TRABAJO",
    "piso": "primer piso",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 296,
+   "id": 297,
    "nombre": "SALA 4 CAMARA DEL TRABAJO",
    "piso": "primer piso",
    "ubicacion": "Ver cartel asensor nivel -1",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 297,
+   "id": 298,
    "nombre": "SALA 5 CAMARA DEL TRABAJO",
    "piso": "segundo piso",
    "ubicacion": "Ver cartel asensor nivel -2",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 298,
+   "id": 299,
    "nombre": "SALA 6 CAMARA DEL TRABAJO",
    "piso": "segundo piso",
    "ubicacion": "Ver cartel asensor nivel -3",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 299,
+   "id": 300,
    "nombre": "SALA 7 CAMARA DEL TRABAJO",
    "piso": "segundo piso",
    "ubicacion": "Ver cartel asensor nivel -4",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 300,
+   "id": 301,
    "nombre": "SALA 8 CAMARA DEL TRABAJO",
    "piso": "segundo piso",
    "ubicacion": "Ver cartel asensor nivel -5",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 301,
+   "id": 302,
    "nombre": "JUZG.DE CONCILIACION Y TRABAJO 7A.NOM.",
    "piso": "segundo piso",
    "ubicacion": "Ver cartel asensor nivel -6",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 302,
+   "id": 303,
    "nombre": "OFICINA DE GESTION JUDICIAL COMUN DEL TGA DE CONCILIACION Y TRABAJO N°2-CAPITAL",
    "piso": "tercer piso",
    "ubicacion": "Ver cartel asensor nivel -7",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 303,
+   "id": 304,
    "nombre": "SALA 9 CAMARA DEL TRABAJO",
    "piso": "tercer piso",
    "ubicacion": "Ver cartel asensor nivel -8",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 304,
+   "id": 305,
    "nombre": "SALA 10 CAMARA DEL TRABAJO",
    "piso": "tercer piso",
    "ubicacion": "Ver cartel asensor nivel -9",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 305,
+   "id": 306,
    "nombre": "SALA 11 CAMARA DEL TRABAJO",
    "piso": "tercer piso",
    "ubicacion": "Ver cartel asensor nivel -10",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 306,
+   "id": 307,
    "nombre": "TRIBUNAL DE GESTION ASOCIADA DE CONCILIACION Y TRABAJO N°2 CAPITAL (TGA)",
    "piso": "tercer piso",
    "ubicacion": "Ver cartel asensor nivel -11",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 307,
+   "id": 308,
    "nombre": "UNIDAD DE COORDINACION (UC) DE LA OF.DE GESTION JUDICIAL COMUN DEL TGA DE CONCIL.Y TRAB.N°2-CAPITAL",
    "piso": "tercer piso",
    "ubicacion": "Ver cartel asensor nivel -12",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 308,
+   "id": 309,
    "nombre": "UNIDAD DE GESTION DE AUDIENCIAS (UGA) DE LA OF.DE GESTION JUD.COMUN-TGA DE CONCIL.Y TRAB.N°2-CAPITAL",
    "piso": "tercer piso",
    "ubicacion": "Ver cartel asensor nivel -13",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 309,
+   "id": 310,
    "nombre": "UNIDAD DE GESTION DE PROCESOS ESPECIALES (UGPE)-OF.DE GESTION JUD.COMUN-TGA DE CONCIL.Y TRAB.N°2",
    "piso": "tercer piso",
    "ubicacion": "Ver cartel asensor nivel -14",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 310,
+   "id": 311,
    "nombre": "UNIDAD DE GESTION DE PROCESOS ORD.Y PROC.DECLAR.ABREV.(PDA-UGP) OF.GEST.JUD.-TGA CONCIL.Y TRAB.N°2",
    "piso": "tercer piso",
    "ubicacion": "Ver cartel asensor nivel -15",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 311,
+   "id": 312,
    "nombre": "OFICINA DE GESTION JUDICIAL COMUN DEL TGA DE CONCILIACION Y TRABAJO N°1-CAPITAL",
    "piso": "cuarto piso",
    "ubicacion": "Ver cartel asensor nivel -16",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 312,
+   "id": 313,
    "nombre": "TRIBUNAL DE GESTION ASOCIADA DE CONCILIACION Y TRABAJO N°1 CAPITAL (TGA)",
    "piso": "cuarto piso",
    "ubicacion": "Ver cartel asensor nivel -17",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 313,
+   "id": 314,
    "nombre": "UNIDAD DE COORDINACION (UC) DE LA OF.DE GESTION JUDICIAL COMUN DEL TGA DE CONCIL.Y TRAB.N°1-CAPITAL",
    "piso": "cuarto piso",
    "ubicacion": "Ver cartel asensor nivel -18",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 314,
+   "id": 315,
    "nombre": "UNIDAD DE GESTION DE AUDIENCIAS (UGA) DE LA OF.DE GESTION JUD.COMUN-TGA DE CONCIL.Y TRAB.N°1-CAPITAL",
    "piso": "cuarto piso",
    "ubicacion": "Ver cartel asensor nivel -19",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 315,
+   "id": 316,
    "nombre": "UNIDAD DE GESTION DE PROCESOS ESPECIALES (UGPE)-OF.DE GESTION JUD.COMUN-TGA DE CONCIL.Y TRAB.N°1",
    "piso": "cuarto piso",
    "ubicacion": "Ver cartel asensor nivel -20",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 316,
+   "id": 317,
    "nombre": "UNIDAD DE GESTION DE PROCESOS ORD.Y PROC.DECLAR.ABREV.(PDA-UGP) OF.GEST.JUD.-TGA CONCIL.Y TRAB.N°1",
    "piso": "cuarto piso",
    "ubicacion": "Ver cartel asensor nivel -21",
    "edificio": "Polo Laboral"
  },
  {
-   "id": 317,
-   "nombre": "",
-   "piso": "",
-   "ubicacion": "",
-   "edificio": ""
- },
- {
    "id": 318,
-   "nombre": "",
-   "piso": "",
-   "ubicacion": "",
-   "edificio": ""
+   "nombre": "Sala de audiencias juzgado 5 NOM",
+   "piso": "Planta baja",
+   "ubicacion": "Pasillo de entrada",
+   "edificio": "Familia Tucumán 360"
  },
  {
    "id": 319,
-   "nombre": "",
-   "piso": "",
-   "ubicacion": "",
-   "edificio": ""
+   "nombre": "Oficina de atención ciudadana",
+   "piso": "Subsuelo",
+   "ubicacion": "Boxes de atención",
+   "edificio": "Familia Tucumán 360"
  },
  {
    "id": 320,
-   "nombre": "",
-   "piso": "",
-   "ubicacion": "",
-   "edificio": ""
+   "nombre": "Secretaría de tribunales de familia",
+   "piso": "Subsuelo",
+   "ubicacion": "Pasando boxes de atención",
+   "edificio": "Familia Tucumán 360"
  },
  {
    "id": 321,
-   "nombre": "",
-   "piso": "",
-   "ubicacion": "",
-   "edificio": ""
+   "nombre": "Juzgado de familia 5ta NOM",
+   "piso": "Planta baja",
+   "ubicacion": "Al lado de audiencias",
+   "edificio": "Familia Tucumán 360"
  },
  {
    "id": 322,
-   "nombre": "",
-   "piso": "",
+   "nombre": "Notificadores y ujieres",
+   "piso": "Planta baja",
    "ubicacion": "",
-   "edificio": ""
+   "edificio": "Familia Tucumán 360"
  },
  {
    "id": 323,
-   "nombre": "",
-   "piso": "",
-   "ubicacion": "",
-   "edificio": ""
+   "nombre": "Asesoría de familia 1 Turno",
+   "piso": "1 er piso",
+   "ubicacion": "Primera puerta izquierda",
+   "edificio": "Familia Tucumán 360"
  },
  {
    "id": 324,
-   "nombre": "",
-   "piso": "",
-   "ubicacion": "",
-   "edificio": ""
+   "nombre": "Asesoría de familia 2 Turno",
+   "piso": "1er piso",
+   "ubicacion": "Segunda puerta izquierda",
+   "edificio": "Familia Tucumán 360"
  },
  {
    "id": 325,
-   "nombre": "",
-   "piso": "",
-   "ubicacion": "",
-   "edificio": ""
+   "nombre": "Asesoría de familia 3 Turno",
+   "piso": "1er piso",
+   "ubicacion": "Tercera puerta izquierda",
+   "edificio": "Familia Tucumán 360"
+ },
+ {
+   "id": 326,
+   "nombre": "Juzgado Familia 2 Nom",
+   "piso": "3 er piso",
+   "ubicacion": "Puerta 3 a la derecha",
+   "edificio": "Familia Tucumán 360"
+ },
+ {
+   "id": 327,
+   "nombre": "Juzgado de familia 2da nominación",
+   "piso": "3er piso",
+   "ubicacion": "Puerta dos a izquierda del ascensor",
+   "edificio": "Familia Tucumán 360"
+ },
+ {
+   "id": 328,
+   "nombre": "Juzgado de 4ta NOM",
+   "piso": "3er piso",
+   "ubicacion": "Al frente de 2da non",
+   "edificio": "Familia Tucumán 360"
+ },
+ {
+   "id": 329,
+   "nombre": "Local técnico",
+   "piso": "3er piso",
+   "ubicacion": "Continuación del pasillo",
+   "edificio": "Familia Tucumán 360"
+ },
+ {
+   "id": 330,
+   "nombre": "Derecho a la identidad",
+   "piso": "4to piso",
+   "ubicacion": "Lado derecho del ascensor",
+   "edificio": "Familia Tucumán 360"
+ },
+ {
+   "id": 331,
+   "nombre": "Asesoría de familia del 4to turno",
+   "piso": "4to piso",
+   "ubicacion": "Lado izquierdo del ascensor",
+   "edificio": "Familia Tucumán 360"
+ },
+ {
+   "id": 332,
+   "nombre": "Defensoria de familia 5to turno",
+   "piso": "4to piso",
+   "ubicacion": "Lado izquierdo del ascensor",
+   "edificio": "Familia Tucumán 360"
+ },
+ {
+   "id": 333,
+   "nombre": "Defensoria de familia 6to turno",
+   "piso": "4to piso",
+   "ubicacion": "Lado izquierdo del ascensor",
+   "edificio": "Familia Tucumán 360"
+ },
+ {
+   "id": 334,
+   "nombre": "Juzgado de Familia 8 Nom",
+   "piso": "5to piso",
+   "ubicacion": "1 era puerta izquierda",
+   "edificio": "Familia Tucumán 360"
+ },
+ {
+   "id": 335,
+   "nombre": "Expedientes y barandilla 8 Nom",
+   "piso": "5to piso",
+   "ubicacion": "2da puerta izquierda",
+   "edificio": "Familia Tucumán 360"
+ },
+ {
+   "id": 336,
+   "nombre": "Juzgado de familia 7 Nom",
+   "piso": "5 to piso",
+   "ubicacion": "3 era puerta a la izquierda",
+   "edificio": "Familia Tucumán 360"
  }
 ]
