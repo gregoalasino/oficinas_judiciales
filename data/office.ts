@@ -2426,7 +2426,7 @@ export const officeLocations: OfficeLocation[] =
  },
  {
    "id": 347,
-   "nombre": "SALA DE AUDIENCIAS",
+   "nombre": "SALA DE AUDIENCIAS PB",
    "piso": "0",
    "ubicacion": "Ver Cartel",
    "edificio": "Ex-Banco"
@@ -2461,7 +2461,7 @@ export const officeLocations: OfficeLocation[] =
  },
  {
    "id": 352,
-   "nombre": "SALA DE AUDIENCIAS",
+   "nombre": "SALA DE AUDIENCIAS 3 PISO",
    "piso": "3",
    "ubicacion": "Ver Cartel",
    "edificio": "Ex-Banco"
@@ -2475,7 +2475,7 @@ export const officeLocations: OfficeLocation[] =
  },
  {
    "id": 354,
-   "nombre": "SALA DE AUDIENCIAS",
+   "nombre": "SALA DE AUDIENCIAS 4 PISO",
    "piso": "4",
    "ubicacion": "Ver Cartel",
    "edificio": "Ex-Banco"

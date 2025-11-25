@@ -4,13 +4,17 @@ import BuildingSearchBar from '../components/BuildingSearcherBar'; // NUEVO comp
 
 // 1. FILTRADO DE DATOS BASADO EN ID (Server-side)
 // Tribunales 1: id 1 al 103
-const TRIBUNALES_1_DATA = officeLocations.filter(o => o.id >= 1 && o.id <= 104);
+const TRIBUNALES_1_DATA = officeLocations.filter(o => o.id >= 1 && o.id <= 105);
 // Tribunales 2: id 104 al 276
-const TRIBUNALES_2_DATA = officeLocations.filter(o => o.id >= 105 && o.id <= 276);
+const TRIBUNALES_2_DATA = officeLocations.filter(o => o.id >= 106 && o.id <= 277);
 // Polo Laboral: id 271 al 317
-const POLO_LABORAL_DATA = officeLocations.filter(o => o.id >= 277 && o.id <= 317);
-// Familia: id 271 al 311
-const FAMILIA_DATA = officeLocations.filter(o => o.id >= 318 && o.id <= 336);
+const POLO_LABORAL_DATA = officeLocations.filter(o => o.id >= 278 && o.id <= 318);
+// Familia: id 319 al 337
+const FAMILIA_DATA = officeLocations.filter(o => o.id >= 319 && o.id <= 337);
+// Ex Banco: id 338 al 354
+const EXBANCO_DATA = officeLocations.filter(o => o.id >= 338 && o.id <= 354);
+// Administracion del 355 al 370
+const ADMINISTRACION_DATA = officeLocations.filter(o => o.id >= 355 && o.id <= 370);
 
 export default function HomePage() {
   return (
@@ -44,6 +48,12 @@ export default function HomePage() {
 
         {/* Componente 4: Familia */}
         <BuildingSearchBar title="Tucuman 360 / Familia" locations={FAMILIA_DATA} />
+
+        {/* Componente 5: Ex Banco */}
+        <BuildingSearchBar title="Ex-Banco" locations={EXBANCO_DATA} />
+
+        {/* Componente 6: Administracion */}
+        <BuildingSearchBar title="Administración / Arturo M. Bas" locations={ADMINISTRACION_DATA} />
 
       </div>
 
