@@ -81,7 +81,7 @@ export default function SearchBar({ locations }: SearchBarProps) {
             >
               <span className="font-semibold text-gray-800">{office.nombre}</span>
               <span className="text-sm text-gray-500 block">
-                Edificio: {office.piso} | Piso: {office.edificio}
+                Edificio: {office.edificio} | Piso: {office.piso}
               </span>
             </li>
           ))}
