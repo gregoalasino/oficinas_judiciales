@@ -4,17 +4,17 @@ import BuildingSearchBar from '../components/BuildingSearcherBar'; // NUEVO comp
 
 // 1. FILTRADO DE DATOS BASADO EN ID (Server-side)
 // Tribunales 1: id 1 al 103
-const TRIBUNALES_1_DATA = officeLocations.filter(o => o.id >= 1 && o.id <= 105);
+const TRIBUNALES_1_DATA = officeLocations.filter(o => o.id >= 1 && o.id <= 107);
 // Tribunales 2: id 104 al 276
-const TRIBUNALES_2_DATA = officeLocations.filter(o => o.id >= 106 && o.id <= 277);
+const TRIBUNALES_2_DATA = officeLocations.filter(o => o.id >= 108 && o.id <= 279);
 // Polo Laboral: id 271 al 317
-const POLO_LABORAL_DATA = officeLocations.filter(o => o.id >= 278 && o.id <= 318);
+const POLO_LABORAL_DATA = officeLocations.filter(o => o.id >= 280 && o.id <= 320);
 // Familia: id 319 al 337
-const FAMILIA_DATA = officeLocations.filter(o => o.id >= 319 && o.id <= 337);
+const FAMILIA_DATA = officeLocations.filter(o => o.id >= 321 && o.id <= 339);
 // Ex Banco: id 338 al 354
-const EXBANCO_DATA = officeLocations.filter(o => o.id >= 338 && o.id <= 354);
+const EXBANCO_DATA = officeLocations.filter(o => o.id >= 340 && o.id <= 356);
 // Administracion del 355 al 370
-const ADMINISTRACION_DATA = officeLocations.filter(o => o.id >= 355 && o.id <= 370);
+const ADMINISTRACION_DATA = officeLocations.filter(o => o.id >= 357 && o.id <= 372);
 
 export default function HomePage() {
   return (
