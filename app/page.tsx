@@ -4,17 +4,19 @@ import BuildingSearchBar from '../components/BuildingSearcherBar'; // NUEVO comp
 
 // 1. FILTRADO DE DATOS BASADO EN ID (Server-side)
 // Tribunales 1: id 1 al 103
-const TRIBUNALES_1_DATA = officeLocations.filter(o => o.id >= 1 && o.id <= 107);
+const TRIBUNALES_1_DATA = officeLocations.filter(o => o.id >= 1 && o.id <= 108);
 // Tribunales 2: id 104 al 276
-const TRIBUNALES_2_DATA = officeLocations.filter(o => o.id >= 108 && o.id <= 279);
+const TRIBUNALES_2_DATA = officeLocations.filter(o => o.id >= 109 && o.id <= 280);
 // Polo Laboral: id 271 al 317
-const POLO_LABORAL_DATA = officeLocations.filter(o => o.id >= 280 && o.id <= 320);
+const POLO_LABORAL_DATA = officeLocations.filter(o => o.id >= 281 && o.id <= 321);
 // Familia: id 319 al 337
-const FAMILIA_DATA = officeLocations.filter(o => o.id >= 321 && o.id <= 339);
+const FAMILIA_DATA = officeLocations.filter(o => o.id >= 322 && o.id <= 340);
 // Ex Banco: id 338 al 354
-const EXBANCO_DATA = officeLocations.filter(o => o.id >= 340 && o.id <= 356);
+const EXBANCO_DATA = officeLocations.filter(o => o.id >= 341 && o.id <= 357);
 // Administracion del 355 al 370
-const ADMINISTRACION_DATA = officeLocations.filter(o => o.id >= 357 && o.id <= 372);
+const ADMINISTRACION_DATA = officeLocations.filter(o => o.id >= 358 && o.id <= 373);
+// San Jeronimo
+const SANJERONIMO_DATA = officeLocations.filter(o => o.id >= 374 && o.id <= 440 );
 
 export default function HomePage() {
   return (
@@ -54,6 +56,9 @@ export default function HomePage() {
 
         {/* Componente 6: Administracion */}
         <BuildingSearchBar title="Administración / Arturo M. Bas" locations={ADMINISTRACION_DATA} />
+
+        {/* Componente 7: San Jeronimo */}
+        <BuildingSearchBar title="San Jerónimo" locations={SANJERONIMO_DATA} />
 
       </div>
 
