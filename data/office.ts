@@ -1636,8 +1636,8 @@ export const officeLocations: OfficeLocation[] =
  {
    "id": 234,
    "nombre": "JUZGADO DE CONTROL EN VIOLENCIA DE GENERO Y FAMILIAR N°2",
-   "piso": "-1",
-   "ubicacion": "Moplo",
+   "piso": "0",
+   "ubicacion": "Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
@@ -2617,126 +2617,126 @@ export const officeLocations: OfficeLocation[] =
    "id": 374,
    "nombre": "AREA DE RECEPCION CENTRALIZADA",
    "piso": "0",
-   "ubicacion": "",
+   "ubicacion": "Apenas entras al edificio ",
    "edificio": "San Jeronimo"
  },
  {
    "id": 375,
    "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO",
    "piso": "0",
-   "ubicacion": "",
+   "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 376,
    "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 1° TURNO",
    "piso": "0",
-   "ubicacion": "",
+   "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 377,
    "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 10° TURNO",
    "piso": "0",
-   "ubicacion": "",
+   "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 378,
    "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 2° TURNO",
    "piso": "0",
-   "ubicacion": "",
+   "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 379,
    "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 3° TURNO",
    "piso": "0",
-   "ubicacion": "",
+   "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 380,
    "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 4° TURNO",
    "piso": "0",
-   "ubicacion": "",
+   "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 381,
    "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 5° TURNO",
    "piso": "0",
-   "ubicacion": "",
+   "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 382,
    "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 6° TURNO",
    "piso": "0",
-   "ubicacion": "",
+   "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 383,
    "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 7° TURNO",
    "piso": "0",
-   "ubicacion": "",
+   "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 384,
    "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 8° TURNO",
    "piso": "0",
-   "ubicacion": "",
+   "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 385,
    "nombre": "DEFENSORÍA PÚBLICA DE NIÑEZ,ADOLES.VIOL.FLIAR Y DE GÉNERO 9° TURNO",
    "piso": "0",
-   "ubicacion": "",
+   "ubicacion": "Planta Baja al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 386,
    "nombre": "EQUIPO TEC.DE LAS ASES.NIÑEZ,ADOL,VIOL.FLIAR.GENERO Y PENAL JUV.-AREA DE SERVICIOS JUDICIALES",
    "piso": "1",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 387,
    "nombre": "EQUIPO TEC.JUZG.DE NIÑEZ,JUV.Y VIOL.FLIAR Y PENAL JUVENIL-AREA DE SERV.JUD-",
    "piso": "1",
-   "ubicacion": "",
+   "ubicacion": "Apenas salis del ascensor",
    "edificio": "San Jeronimo"
  },
  {
    "id": 388,
    "nombre": "FISCALIA PENAL JUVENIL 1°TURNO",
    "piso": "4",
-   "ubicacion": "",
+   "ubicacion": "Apenas salís del ascensor puerta izquierda ",
    "edificio": "San Jeronimo"
  },
  {
    "id": 389,
    "nombre": "FISCALIA PENAL JUVENIL 2°TURNO",
    "piso": "4",
-   "ubicacion": "",
+   "ubicacion": "Apenas salís del ascensor puerta derecha ",
    "edificio": "San Jeronimo"
  },
  {
    "id": 390,
    "nombre": "FISCALIA PENAL JUVENIL 3°TURNO",
    "piso": "4",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo puerta izquierda ",
    "edificio": "San Jeronimo"
  },
  {
    "id": 391,
    "nombre": "FISCALIA PENAL JUVENIL 4°TURNO",
    "piso": "4",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo puerta derecha ",
    "edificio": "San Jeronimo"
  },
  {
@@ -2750,217 +2750,217 @@ export const officeLocations: OfficeLocation[] =
    "id": 393,
    "nombre": "JUZGADO PENAL JUVENIL DE 1A.NOM.",
    "piso": "2",
-   "ubicacion": "Contrafrente",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 394,
    "nombre": "JUZGADO PENAL JUVENIL DE 1A.NOM.-SEC.1",
    "piso": "2",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 395,
    "nombre": "JUZGADO PENAL JUVENIL DE 1A.NOM-SEC.2",
    "piso": "2",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 396,
    "nombre": "JUZGADO PENAL JUVENIL DE 2A.NOM.-SEC.3",
    "piso": "3",
-   "ubicacion": "Contrafrente",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 397,
    "nombre": "JUZGADO PENAL JUVENIL DE 2A.NOM.-SEC.4",
    "piso": "3",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 398,
    "nombre": "JUZGADO PENAL JUVENIL DE 3A.NOM.",
    "piso": "2",
-   "ubicacion": "Contrafrente",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 399,
    "nombre": "JUZGADO PENAL JUVENIL DE 3A.NOM.-SEC.5",
    "piso": "2",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 400,
    "nombre": "JUZGADO PENAL JUVENIL DE 3A.NOM.-SEC.6",
    "piso": "2",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 401,
    "nombre": "JUZGADO PENAL JUVENIL DE 4A.NOM.",
    "piso": "3",
-   "ubicacion": "Contrafrente",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 402,
    "nombre": "JUZGADO PENAL JUVENIL DE 4A.NOM.-SEC.7",
    "piso": "3",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 403,
    "nombre": "JUZGADO PENAL JUVENIL DE 4A.NOM.-SEC.8",
    "piso": "3",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 404,
    "nombre": "MESA DE ENTRADA DE DENUNCIAS DE VIOL.FLIAR.Y DE GENERO DEL TGA NAVFG-CAPITAL",
    "piso": "0",
-   "ubicacion": "",
+   "ubicacion": "Apenas entras al edificio",
    "edificio": "San Jeronimo"
  },
  {
    "id": 405,
    "nombre": "OFICINA DE ATENCION CIUDADANA-TRIB.NIÑEZ,JUV.Y VIOL.FLIAR.Y DE GENERO Y PEN.JUV-T.S.J",
-   "piso": "2",
-   "ubicacion": "",
+   "piso": "0",
+   "ubicacion": "Apenas entras al edificio",
    "edificio": "San Jeronimo"
  },
  {
    "id": 406,
    "nombre": "OFICINA DE EFECTOS Y DOCUMENTACION -TGA NAVFG- CAPITAL",
    "piso": "2",
-   "ubicacion": "Frente - Derecha",
+   "ubicacion": "Apenas salís del ascensor, puerta derecha",
    "edificio": "San Jeronimo"
  },
  {
    "id": 407,
    "nombre": "OFICINA DE ENTRADA DEL TGA NAVFG -CAPITAL",
    "piso": "2",
-   "ubicacion": "Frente - Derecha",
+   "ubicacion": "Apenas salís del ascensor, puerta izquierda",
    "edificio": "San Jeronimo"
  },
  {
    "id": 408,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE NIÑEZ Y ADOLES.\"A\"-TGA NAVFG- CAPITAL",
    "piso": "6",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 409,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE NIÑEZ Y ADOLES.\"B\"-TGA NAVFG- CAPITAL",
    "piso": "6",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 410,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE NIÑEZ Y ADOLES.-TGA NAVFG- CAPITAL",
    "piso": "6",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 411,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE VIOL.DE GENERO MOD.DOMES.CAUSAS GRAVES \"A\"-TGA NAVFG- CAPITAL",
    "piso": "7",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 412,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE VIOL.DE GENERO MOD.DOMES.CAUSAS GRAVES \"B\"-TGA NAVFG- CAPITAL",
    "piso": "7",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 413,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE VIOL.DE GENERO MOD.DOMES.CAUSAS GRAVES -TGA NAVFG- CAPITAL",
    "piso": "7",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 414,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE VIOL.FLIAR. Y DE GENERO \"A\"-TGA NAVFG- CAPITAL",
    "piso": "5",
-   "ubicacion": "",
+   "ubicacion": "Apenas salís del ascensor",
    "edificio": "San Jeronimo"
  },
  {
    "id": 415,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE VIOL.FLIAR. Y DE GENERO \"B\"-TGA NAVFG- CAPITAL",
    "piso": "5",
-   "ubicacion": "",
+   "ubicacion": "Apenas salís del ascensor",
    "edificio": "San Jeronimo"
  },
  {
    "id": 416,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE VIOL.FLIAR. Y DE GENERO \"C\"-TGA NAVFG- CAPITAL",
    "piso": "5",
-   "ubicacion": "",
+   "ubicacion": "Apenas salís del ascensor",
    "edificio": "San Jeronimo"
  },
  {
    "id": 417,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE VIOL.FLIAR. Y DE GENERO \"D\"-TGA NAVFG- CAPITAL",
    "piso": "5",
-   "ubicacion": "",
+   "ubicacion": "Apenas salís del ascensor",
    "edificio": "San Jeronimo"
  },
  {
    "id": 418,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE VIOL.FLIAR. Y DE GENERO \"E\"-TGA NAVFG- CAPITAL",
    "piso": "5",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 419,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE VIOL.FLIAR. Y DE GENERO \"F\"-TGA NAVFG- CAPITAL",
    "piso": "5",
-   "ubicacion": "",
+   "ubicacion": "Pasillo de fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 420,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE VIOL.FLIAR. Y DE GENERO \"G\"-TGA NAVFG- CAPITAL",
    "piso": "5",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 421,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE VIOL.FLIAR. Y DE GENERO \"H\"-TGA NAVFG- CAPITAL",
    "piso": "5",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 422,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE VIOL.FLIAR. Y DE GENERO \"I\"-TGA NAVFG- CAPITAL",
    "piso": "5",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 423,
    "nombre": "OFICINA DE GESTION DE PROCESOS DE VIOL.FLIAR. Y DE GENERO-TGA NAVFG- CAPITAL",
    "piso": "5",
-   "ubicacion": "",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
@@ -2974,7 +2974,7 @@ export const officeLocations: OfficeLocation[] =
    "id": 425,
    "nombre": "REGISTRO UNICO DE ADOPTANTES- AREA DE SERVICIOS JUDICIALES",
    "piso": "3",
-   "ubicacion": "",
+   "ubicacion": "Apenas salís del ascensor",
    "edificio": "San Jeronimo"
  },
  {
@@ -2988,7 +2988,7 @@ export const officeLocations: OfficeLocation[] =
    "id": 427,
    "nombre": "UNIDAD DE COORDINACION -TGA NAVFG- CAPITAL",
    "piso": "2",
-   "ubicacion": "Frente - Izquierda",
+   "ubicacion": "Apenas salís del ascensor",
    "edificio": "San Jeronimo"
  },
  {
@@ -3009,63 +3009,63 @@ export const officeLocations: OfficeLocation[] =
    "id": 430,
    "nombre": "UNIDAD DE JUEZ/A DE 1° NOM -TGA NAVFG- CAPITAL",
    "piso": "6",
-   "ubicacion": "Frente - Izquierda",
+   "ubicacion": "Frente saliendo del ascensor- Izquierda",
    "edificio": "San Jeronimo"
  },
  {
    "id": 431,
    "nombre": "UNIDAD DE JUEZ/A DE 2° NOM -TGA NAVFG- CAPITAL",
    "piso": "6",
-   "ubicacion": "Frente - Derecha",
+   "ubicacion": "Frente saliendo del ascensor - Derecha",
    "edificio": "San Jeronimo"
  },
  {
    "id": 432,
    "nombre": "UNIDAD DE JUEZ/A DE 3° NOM -TGA NAVFG- CAPITAL",
    "piso": "6",
-   "ubicacion": "Frente - Derecha",
+   "ubicacion": "Frente saliendo del ascensor- Derecha",
    "edificio": "San Jeronimo"
  },
  {
    "id": 433,
    "nombre": "UNIDAD DE JUEZ/A DE 4° NOM -TGA NAVFG- CAPITAL",
    "piso": "7",
-   "ubicacion": "Frente - Izquierda",
+   "ubicacion": "Frente  saliendo del ascensor - Izquierda",
    "edificio": "San Jeronimo"
  },
  {
    "id": 434,
    "nombre": "UNIDAD DE JUEZ/A DE 5° NOM -TGA NAVFG- CAPITAL",
    "piso": "7",
-   "ubicacion": "Frente - Derecha",
+   "ubicacion": "Frente saliendo del ascensor- Derecha",
    "edificio": "San Jeronimo"
  },
  {
    "id": 435,
    "nombre": "UNIDAD DE JUEZ/A DE 6° NOM -TGA NAVFG- CAPITAL",
    "piso": "7",
-   "ubicacion": "Frente - Derecha",
+   "ubicacion": "Saliendo del ascensor",
    "edificio": "San Jeronimo"
  },
  {
    "id": 436,
    "nombre": "UNIDAD DE JUEZ/A DE 7° NOM -TGA NAVFG- CAPITAL",
    "piso": "6",
-   "ubicacion": "Frente - Izquierda",
+   "ubicacion": "Frente saliendo del ascensor- Izquierda",
    "edificio": "San Jeronimo"
  },
  {
    "id": 437,
    "nombre": "UNIDAD DE JUEZ/A DE 8° NOM-VG -CAUSAS GRAVES-TGA NAVFG- CAPITAL",
    "piso": "7",
-   "ubicacion": "Contrafrente",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
    "id": 438,
    "nombre": "UNIDAD DE JUEZ/A DE 9° NOM-VG -CAUSAS GRAVES-TGA NAVFG- CAPITAL",
    "piso": "7",
-   "ubicacion": "Contrafrente",
+   "ubicacion": "Pasillo al fondo",
    "edificio": "San Jeronimo"
  },
  {
@@ -3078,8 +3078,15 @@ export const officeLocations: OfficeLocation[] =
  {
    "id": 440,
    "nombre": "UNIDAD DE SEGUIMIENTO-JUST.RESTAURATIVA PENAL JUVENIL",
-   "piso": "",
-   "ubicacion": "",
+   "piso": "6",
+   "ubicacion": "Pasillo al fondo",
+   "edificio": "San Jeronimo"
+ },
+ {
+   "id": 441,
+   "nombre": "UGA VIOLENCIA FAMILIAR",
+   "piso": "8",
+   "ubicacion": "Subís al 7mo y haces un piso más por la escalera",
    "edificio": "San Jeronimo"
  }
 ]
