@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 // Importamos la fuente que Next.js usa por defecto (Inter)
 import { Inter } from "next/font/google"; 
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/next"
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -23,6 +24,7 @@ export default function RootLayout({
       */}
       <body className={inter.className + " antialiased"}>
         {children}
+        <Analytics />
       </body>
     </html>
   );
