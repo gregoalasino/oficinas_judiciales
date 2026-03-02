@@ -4,6 +4,8 @@ import { useState } from 'react';
 import { officeLocations } from '../data/office'; 
 import SearchBar from '../components/searchBar'; 
 import BuildingSearchBar from '../components/BuildingSearcherBar';
+// 1. IMPORTAMOS EL NUEVO COMPONENTE
+import ModificationForm from '../components/ModificationForm'; 
 import { HelpCircle, X, MapPin, Briefcase, Building2 } from 'lucide-react';
 
 
@@ -40,12 +42,10 @@ export default function HomePage() {
         {/* POPOVER MEJORADO */}
         {showInfo && (
           <>
-            {/* Backdrop para cerrar al hacer clic afuera */}
             <div className="fixed inset-0 z-40" onClick={() => setShowInfo(false)} />
             
             <div className="absolute top-16 left-1/2 -translate-x-1/2 w-[360px] sm:w-[500px] bg-white/90 backdrop-blur-md border border-slate-200 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.15)] z-50 overflow-hidden animate-in fade-in zoom-in duration-200">
               
-              {/* Encabezado del Popover */}
               <div className="bg-slate-800 p-4 text-white flex justify-between items-center">
                 <div className="flex items-center gap-2">
                   <div className="bg-blue-500 p-1 rounded-md"><Building2 size={16}/></div>
@@ -56,9 +56,7 @@ export default function HomePage() {
                 </button>
               </div>
 
-              {/* Contenido */}
               <div className="p-6 space-y-6">
-                {/* Visualizador de ID */}
                 <div className="flex flex-col items-center p-4 bg-slate-50 rounded-xl border border-dashed border-slate-300">
                   <p className="text-[10px] text-slate-400 uppercase font-bold mb-2 tracking-[0.2em]">Estructura del ID de Red</p>
                   <div className="text-2xl font-mono tracking-[0.3em] font-bold">
@@ -69,7 +67,6 @@ export default function HomePage() {
                   </div>
                 </div>
 
-                {/* Lista de Referencias */}
                 <div className="grid gap-4">
                   <div className="flex items-start gap-4">
                     <div className="mt-1 bg-blue-100 text-blue-700 p-2 rounded-lg"><Building2 size={20}/></div>
@@ -105,7 +102,6 @@ export default function HomePage() {
         )}
       </div>
       
-      {/* EL RESTO DEL CÓDIGO (BUSCADORES) SE MANTIENE IGUAL */}
       <div className="w-full max-w-xl px-4 mb-16">
         <SearchBar locations={officeLocations} />
       </div>
@@ -121,6 +117,9 @@ export default function HomePage() {
         <BuildingSearchBar title="Administración / Arturo M. Bas" locations={ADMINISTRACION_DATA} />
         <BuildingSearchBar title="San Jerónimo" locations={SANJERONIMO_DATA} />
       </div>
+
+      {/* 2. AGREGAMOS EL COMPONENTE AQUÍ ABAJO */}
+      <ModificationForm />
 
     </main>
   );
