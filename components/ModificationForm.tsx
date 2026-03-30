@@ -61,12 +61,12 @@ export default function ModificationForm() {
 
                 <div className="flex flex-col gap-1">
                   <label className="text-xs font-semibold text-slate-600 uppercase">Edificio</label>
-                  <input name="edificio" placeholder="Ej: Palacio I" required className="border border-slate-300 p-2.5 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none text-slate-800" />
+                  <input name="edificio" placeholder="Ej: Tribunales I" required className="border border-slate-300 p-2.5 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none text-slate-800" />
                 </div>
 
                 <div className="flex flex-col gap-1">
                   <label className="text-xs font-semibold text-slate-600 uppercase">Oficina / Dependencia</label>
-                  <input name="oficina" placeholder="Ej: Juzgado Civil 25" required className="border border-slate-300 p-2.5 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none text-slate-800" />
+                  <input name="oficina" placeholder="Ej: Como figura en el remito" required className="border border-slate-300 p-2.5 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none text-slate-800" />
                 </div>
 
                 <div className="flex flex-col gap-1">
