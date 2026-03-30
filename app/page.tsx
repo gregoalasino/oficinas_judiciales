@@ -9,13 +9,13 @@ import ModificationForm from '../components/ModificationForm';
 import { HelpCircle, X, MapPin, Briefcase, Building2 } from 'lucide-react';
 
 
-const TRIBUNALES_1_DATA = officeLocations.filter(o => o.id >= 1 && o.id <= 110);
-const TRIBUNALES_2_DATA = officeLocations.filter(o => o.id >= 111 && o.id <= 282);
-const POLO_LABORAL_DATA = officeLocations.filter(o => o.id >= 283 && o.id <= 323);
-const FAMILIA_DATA = officeLocations.filter(o => o.id >= 324 && o.id <= 342);
-const EXBANCO_DATA = officeLocations.filter(o => o.id >= 343 && o.id <= 359);
-const ADMINISTRACION_DATA = officeLocations.filter(o => o.id >= 360 && o.id <= 375);
-const SANJERONIMO_DATA = officeLocations.filter(o => o.id >= 376 && o.id <= 443 );
+const TRIBUNALES_1_DATA = officeLocations.filter(o => o.id >= 1 && o.id <= 113);
+const TRIBUNALES_2_DATA = officeLocations.filter(o => o.id >= 114 && o.id <= 289);
+const POLO_LABORAL_DATA = officeLocations.filter(o => o.id >= 290 && o.id <= 331);
+const FAMILIA_DATA = officeLocations.filter(o => o.id >= 332 && o.id <= 350);
+const EXBANCO_DATA = officeLocations.filter(o => o.id >= 351 && o.id <= 367);
+const ADMINISTRACION_DATA = officeLocations.filter(o => o.id >= 368 && o.id <= 383);
+const SANJERONIMO_DATA = officeLocations.filter(o => o.id >= 384 && o.id <= 451 );
 
 export default function HomePage() {
   const [showInfo, setShowInfo] = useState(false);

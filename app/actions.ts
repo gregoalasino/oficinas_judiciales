@@ -4,26 +4,27 @@ import { Resend } from 'resend';
 const resend = new Resend(process.env.RESEND_API_KEY);
 
 export async function sendModificationProposal(formData: FormData) {
-  const edificio = formData.get('edificio');
-  const oficina = formData.get('oficina');
-  const ubicacion = formData.get('ubicacion');
+  const tipo = formData.get('tipo')?.toString() === 'nueva' ? 'NUEVA OFICINA' : 'MODIFICACIÓN';
+  const edificio = formData.get('edificio')?.toString();
+  const oficina = formData.get('oficina')?.toString();
+  const ubicacion = formData.get('ubicacion')?.toString();
 
   try {
     await resend.emails.send({
       from: 'onboarding@resend.dev',
-      to: 'gregoalasino@gmail.com', // Cambialo por el tuyo
-      subject: `Nueva propuesta de modificación: ${oficina}`,
+      to: 'gregoalasino@gmail.com',
+      subject: `[${tipo}] - ${oficina}`, // El asunto ahora te dice qué es
       html: `
-        <h2>Propuesta de cambio detectada</h2>
-        <p><strong>Edificio:</strong> ${edificio}</p>
-        <p><strong>Oficina:</strong> ${oficina}</p>
-        <p><strong>Nueva Ubicación:</strong> ${ubicacion}</p>
-        <hr />
-        <p>Enviado desde la App de Búsqueda de Oficinas.</p>
+        <div style="font-family: sans-serif; padding: 20px;">
+          <h2 style="color: #1d4ed8;">${tipo} Reportada</h2>
+          <p><strong>Edificio:</strong> ${edificio}</p>
+          <p><strong>Oficina:</strong> ${oficina}</p>
+          <p><strong>Detalles:</strong> ${ubicacion}</p>
+        </div>
       `
     });
     return { success: true };
   } catch (error) {
-    return { success: false, error };
+    return { success: false };
   }
 }
