@@ -54,9 +54,9 @@ export const officeLocations: OfficeLocation[] =
  {
    "id": 8,
    "nombre": "BOLETIN JUDICIAL",
-   "piso": "Subsuelo",
-   "ubicacion": "Duarte Quiros",
-   "edificio": "Tribunales 1"
+   "piso": "POLO LABORAL",
+   "ubicacion": "Boletin Judicial no está más en Tribunales 1, ahora pasa a POLO LABORAL",
+   "edificio": "POLO LABORAL"
  },
  {
    "id": 9,
@@ -691,8 +691,8 @@ export const officeLocations: OfficeLocation[] =
  {
    "id": 99,
    "nombre": "AUTOMOTORES SECUESTRADOS",
-   "piso": "1° Piso",
-   "ubicacion": "Pasillo Central",
+   "piso": "Subsuelo",
+   "ubicacion": "Subsuelo por Bolívar",
    "edificio": "Tribunales 1"
  },
  {
@@ -792,6 +792,20 @@ export const officeLocations: OfficeLocation[] =
    "piso": "Planta Baja",
    "ubicacion": "al lado de expediente electronico planta baja",
    "edificio": "Tribunales 1"
+ },
+ {
+   "id": 455,
+   "nombre": "OFICINA DE TRAMITACION ELECTRONICA",
+   "piso": "0",
+   "ubicacion": "Entrando por DQ en planta baja (Al lado de expediente electronico)",
+   "edificio": "Tribunales 1"
+ },
+ {
+   "id": 456,
+   "nombre": "EQUIPO TEC.INTERV.VIC. DELITOS CONTRA INTEG.SEXUAL- AREA SERVICIOS JUDICIALES",
+   "piso": "-2",
+   "ubicacion": "presentándose en la MESA DE ENTRADA DE EQUIPO TECNICO",
+   "edificio": "Tribunales 2"
  },
  {
    "id": 114,
@@ -1664,8 +1678,8 @@ export const officeLocations: OfficeLocation[] =
  {
    "id": 238,
    "nombre": "JUZGADO DE CONTROL EN VIOLENCIA DE GENERO Y FAMILIAR N°1",
-   "piso": "-1",
-   "ubicacion": "Moplo",
+   "piso": "0",
+   "ubicacion": "Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
@@ -1755,8 +1769,8 @@ export const officeLocations: OfficeLocation[] =
  {
    "id": 251,
    "nombre": "JUZGADO DE EJECUCION PENAL Nº 3",
-   "piso": "-2",
-   "ubicacion": "Moplo",
+   "piso": "0",
+   "ubicacion": "Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
