@@ -1664,7 +1664,7 @@ export const officeLocations: OfficeLocation[] =
  {
    "id": 236,
    "nombre": "JUZGADO DE CONTROL DE LUCHA CONTRA EL NARCOTRAFICO",
-   "piso": "0",
+   "piso": "-1",
    "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
