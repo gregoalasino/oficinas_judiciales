@@ -1700,7 +1700,7 @@ export const officeLocations: OfficeLocation[] =
    "id": 241,
    "nombre": "JUZGADO DE CONTROL Y FALTAS N°11",
    "piso": "0",
-   "ubicacion": "T2 - Ala Celeste",
+   "ubicacion": "Moplo",
    "edificio": "Tribunales 2"
  },
  {
@@ -1755,8 +1755,8 @@ export const officeLocations: OfficeLocation[] =
  {
    "id": 249,
    "nombre": "JUZGADO DE EJECUCION PENAL Nº 1",
-   "piso": "-2",
-   "ubicacion": "Moplo",
+   "piso": "0",
+   "ubicacion": "Ala Celeste",
    "edificio": "Tribunales 2"
  },
  {
